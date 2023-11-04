@@ -1,36 +1,26 @@
 {
   "main": {
     "name": "Alex Mendoza",
-    "occupation": "ReactJS Developer && Instructor @CleverProgrammer",
-    "description": "Full Stack React Developer by Day, Founder && Freelancer by Night. #papaReact",
+    "occupation": "Full Stack Developer",
+    "description": " by Day, Freelancer by Night",
     "image": "IG_Sonny.jpeg",
-    "bio": "My name is Sonny, I'm a Full Stack ReactJS Developer. ",
+    "bio": " I'm an experienced full-stack developer with a passion for crafting dynamic and engaging web and mobile applications. With expertise in a wide range of technologies, including React, Angular, Node.js, C#, and React Native, I thrive in turning ideas into innovative, user-friendly solutions. My experience in both front-end and back-end development, coupled with my ability to create cross-platform mobile apps, allows me to deliver end-to-end, scalable products. I'm committed to staying at the forefront of the ever-evolving tech landscape, ensuring that I can provide the best solutions for my clients. ",
     "contactmessage": "Get in touch with me to receive further details, get coached or anything else.",
-    "email": "sonny@cleverprogrammer.com",
-    "phone": "+44 12 345 6789",
+    "email": "amendoza807@gmail.com",
+    "phone": "+51 985437707",
     "address": {
       "street": "Av. Jose Pardo 570",
       "city": "Lima",
       "state": "PE",
-      "zip": "ABC 123"
+      "zip": "15074"
     },
-    "website": "http://www.timbakerdev.com",
-    "resumedownload": "http://timbakerdev.com",
+    "website": "",
+    "resumedownload": "",
     "social": [
       {
         "name": "facebook",
         "url": "https://www.facebook.com/alex.mendoza.e26",
         "className": "fa fa-facebook"
-      },
-      {
-        "name": "linkedin",
-        "url": "https://www.linkedin.com/in/saajansangha/",
-        "className": "fa fa-linkedin"
-      },
-      {
-        "name": "instagram",
-        "url": "https://www.instagram.com/ssssangha/",
-        "className": "fa fa-instagram"
       },
       {
         "name": "github",
@@ -51,22 +41,44 @@
     ],
     "work": [
       {
-        "company": "Clever Programmer",
-        "title": "Team Member && React Specialist",
-        "years": "April 2020 - Present",
-        "description": "Teaching ReactJS to thousands of students."
+        "company": "SHAREBUSINESS",
+        "title": "FULL STACK DEVELOPER",
+        "years": "March 2023 - Present",
+        "description": "MERN and MEAN development."
       },
       {
-        "company": "Lindar Media",
-        "title": "Software Engineer",
-        "years": "Nov 2019 - April 2020",
-        "description": "Building MrQ, a gambling website."
+        "company": "ORBIS DATA PERU",
+        "title": "FULL STACK DEVELOPER",
+        "years": "August 2022 - February 2023",
+        "description": "MERN and AWS development."
+      },
+      {
+        "company": "LIINX",
+        "title": "FULL STACK DEVELOPER",
+        "years": "April 2022 - November 2022",
+        "description": "MERN development."
       }
     ],
     "skills": [
       {
         "name": "ReactJs",
         "level": "100%"
+      },
+      {
+        "name": "NodeJs",
+        "level": "90%"
+      },
+      {
+        "name": "Angular",
+        "level": "60%"
+      },
+      {
+        "name": "MongoDB",
+        "level": "80%"
+      },
+      {
+        "name": "Wordpress",
+        "level": "75%"
       },
       {
         "name": "CSS",
@@ -77,50 +89,40 @@
         "level": "60%"
       },
       {
-        "name": "Figma && Adobe XD",
-        "level": "55%"
-      },
-      {
         "name": "HTML5",
         "level": "80%"
       },
       {
-        "name": "MongoDB",
-        "level": "80%"
+        "name": "C#",
+        "level": "60%"
       }
     ]
   },
   "portfolio": {
     "projects": [
       {
-        "title": "MERN Stack WhatsApp Clone",
-        "category": "WhatsApp Clone built with MERN (MongoDB, ExpressJS, ReactJS, NodeJS)",
-        "image": "whatsapp-mern.jpeg",
-        "url": "https://www.youtube.com/watch?v=gzdQDxzW2Tw"
+        "title": "Liinx",
+        "category": "Digital Identity built with MERN (MongoDB, ExpressJS, ReactJS, NodeJS)",
+        "image": "react.png",
+        "url": "https://jocular-ganache-1fc660.netlify.app/"
       },
       {
-        "title": "MERN Stack TikTok Clone",
+        "title": "Rimac Test",
         "category": "TikTok Clone built with MERN (MongoDB, ExpressJS, ReactJS, NodeJS)",
-        "image": "tiktok-mern.jpeg",
-        "url": "https://www.youtube.com/watch?v=g8yGxDMyGiE"
+        "image": "react.png",
+        "url": "https://papaya-puppy-9f85ca.netlify.app/"
       },
       {
-        "title": "Facebook Clone with React",
-        "category": "Facebook Clone built with ReactJS",
-        "image": "facebook-clone.png",
-        "url": "https://www.youtube.com/watch?v=B-kxUMHBxNo"
+        "title": "Estacion108",
+        "category": "Wordpress ecommerce",
+        "image": "estacion108.png",
+        "url": "https://estacion108.com/"
       },
       {
-        "title": "Airbnb Clone",
-        "category": "Facebook Clone built with ReactJS",
-        "image": "airbnb-clone.jpeg",
-        "url": "https://www.youtube.com/watch?v=BtJeH_-XYaA"
-      },
-      {
-        "title": "Netflix Clone",
-        "category": "Facebook Clone built with ReactJS",
-        "image": "netflix-clone.jpeg",
-        "url": "https://www.youtube.com/watch?v=XtMThy8QKqU&t=9358s"
+        "title": "Vive Organics",
+        "category": "Wordpress ecommerce",
+        "image": "viveorganics.png",
+        "url": "https://viveorganicsperu.com/"
       }
     ]
   },
